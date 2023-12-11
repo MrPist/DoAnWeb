@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phuoc\\Documents\\WebVot\\WebsiteVot\\WebsiteVot\\WebsiteVot.csproj": {}
+    "C:\\Users\\phuoc\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phuoc\\Documents\\WebVot\\WebsiteVot\\WebsiteVot\\WebsiteVot.csproj": {
+    "C:\\Users\\phuoc\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phuoc\\Documents\\WebVot\\WebsiteVot\\WebsiteVot\\WebsiteVot.csproj",
+        "projectUniqueName": "C:\\Users\\phuoc\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
         "projectName": "WebsiteVot",
-        "projectPath": "C:\\Users\\phuoc\\Documents\\WebVot\\WebsiteVot\\WebsiteVot\\WebsiteVot.csproj",
+        "projectPath": "C:\\Users\\phuoc\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
         "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phuoc\\Documents\\WebVot\\WebsiteVot\\WebsiteVot\\obj\\",
+        "outputPath": "C:\\Users\\phuoc\\Source\\Repos\\DoAnWeb\\WebsiteVot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
