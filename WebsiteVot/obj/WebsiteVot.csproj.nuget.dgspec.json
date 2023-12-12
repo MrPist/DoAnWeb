@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VAN VANG\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {}
+    "C:\\Users\\lephu\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VAN VANG\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {
+    "C:\\Users\\lephu\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VAN VANG\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
+        "projectUniqueName": "C:\\Users\\lephu\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
         "projectName": "WebsiteVot",
-        "projectPath": "C:\\Users\\VAN VANG\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
-        "packagesPath": "C:\\Users\\VAN VANG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VAN VANG\\Source\\Repos\\DoAnWeb\\WebsiteVot\\obj\\",
+        "projectPath": "C:\\Users\\lephu\\Source\\Repos\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
+        "packagesPath": "C:\\Users\\lephu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lephu\\Source\\Repos\\DoAnWeb\\WebsiteVot\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\VAN VANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lephu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -56,9 +60,17 @@
               "target": "Package",
               "version": "[3.1.32, )"
             },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.32, )"
+            },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
               "version": "[3.1.32, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             }
           },
           "imports": [
@@ -80,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
