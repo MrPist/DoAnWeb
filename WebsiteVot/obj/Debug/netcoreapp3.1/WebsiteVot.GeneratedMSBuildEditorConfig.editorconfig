@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = WebsiteVot
-build_property.ProjectDir = C:\Users\LAPTOP\OneDrive\Tài liệu\GitHub\DoAnWeb\WebsiteVot\
+build_property.ProjectDir = C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
