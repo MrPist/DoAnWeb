@@ -18,10 +18,15 @@ namespace WebsiteVot.Controllers
         {
             _context = context;
         }
-
+        void GetInfo()
+        {
+            ViewBag.danhmuc = _context.Danhmuc.ToList();
+            //ViewData["solg"] = GetCartItems().Count();
+        }
         // GET: Customer
         public async Task<IActionResult> Index()
         {
+            GetInfo();
             var applicationDbContext = _context.Mathang.Include(m => m.MaDmNavigation);
             return View(await applicationDbContext.ToListAsync());
         }
