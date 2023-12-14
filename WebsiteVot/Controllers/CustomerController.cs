@@ -161,5 +161,7 @@ namespace WebsiteVot.Controllers
         {
             return _context.Mathang.Any(e => e.MaMh == id);
         }
+       
+
     }
 }
