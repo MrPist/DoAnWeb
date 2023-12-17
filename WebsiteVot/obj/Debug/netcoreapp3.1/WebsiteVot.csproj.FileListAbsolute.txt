@@ -1229,3 +1229,5 @@ C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\WebsiteVot.pdb
 C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\WebsiteVot.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByName.cshtml.g.cs
 C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByManufactuner.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByManufactuner.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByName.cshtml.g.cs

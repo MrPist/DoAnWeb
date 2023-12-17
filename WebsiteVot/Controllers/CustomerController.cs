@@ -168,11 +168,11 @@ namespace WebsiteVot.Controllers
             var mathang = _context.Mathang.Where(p => p.Ten.Contains(keyword));
             return View(await mathang.ToListAsync());
         }
-        public async Task<IActionResult> ProductsByManufactuner(string manufactuner)
+        public async Task<IActionResult> ProductsByManufactuner(int id)
         {
             GetInfo();
-            var products = _context.Danhmuc.Where(p => p.Ten.Contains(manufactuner));
-            return View(await products.ToListAsync());
+            var products = _context.Mathang.Include(m => m.MaDmNavigation).Where(m => m.MaMh == id).ToList();
+            return View(products);
 
         }
     }

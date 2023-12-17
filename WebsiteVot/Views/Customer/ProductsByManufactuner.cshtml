@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<WebsiteVot.Models.Mathang>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "@";
 }
 <div>
     <form asp-action="ProductsByName">
@@ -13,7 +13,7 @@
         </div>
     </form>
 </div>
-<h1>Sản phẩm theo tên</h1>
+<h1>Sản phẩm theo hãng sản xuất</h1>
 
 <div class="row">
     @foreach (var item in Model)
