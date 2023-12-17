@@ -34,6 +34,7 @@ namespace WebsiteVot.Controllers
         // GET: Customer/Details/5
         public async Task<IActionResult> Details(int? id)
         {
+            GetInfo();
             if (id == null)
             {
                 return NotFound();
@@ -161,7 +162,18 @@ namespace WebsiteVot.Controllers
         {
             return _context.Mathang.Any(e => e.MaMh == id);
         }
-       
+        public async Task<IActionResult> ProductsByName(string keyword)
+        {
+            GetInfo();
+            var mathang = _context.Mathang.Where(p => p.Ten.Contains(keyword));
+            return View(await mathang.ToListAsync());
+        }
+        public async Task<IActionResult> ProductsByManufactuner(string manufactuner)
+        {
+            GetInfo();
+            var products = _context.Danhmuc.Where(p => p.Ten.Contains(manufactuner));
+            return View(await products.ToListAsync());
 
+        }
     }
 }

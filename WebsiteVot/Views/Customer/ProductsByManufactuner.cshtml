@@ -3,8 +3,6 @@
 @{
     ViewData["Title"] = "Index";
 }
-
-<h1>Index</h1>
 <div>
     <form asp-action="ProductsByName">
         <div>
@@ -15,7 +13,7 @@
         </div>
     </form>
 </div>
-<h1>Danh sách sản phẩm</h1>
+<h1>Sản phẩm theo tên</h1>
 
 <div class="row">
     @foreach (var item in Model)
@@ -23,7 +21,6 @@
         <div class="col-sm-3 d-flex">
             <div class="card text-center m-2 shadow">
                 <div class="card-header bg-secondary text-white">
-                  
                 </div>
                 <div class="card-body">
                     <a asp-action="Details" asp-route-id="@item.MaMh">
@@ -40,5 +37,4 @@
             </div>
         </div>
     }
-
-    </div>
+</div>
