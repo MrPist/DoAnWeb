@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebsiteVot")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af525420a6b0658db1c5b8bd4bf111cc6c8b3649")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a558448787de16d2bc38da6a40ff684397e65664")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebsiteVot.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
