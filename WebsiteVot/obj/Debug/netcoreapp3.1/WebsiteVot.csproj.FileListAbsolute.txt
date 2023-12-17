@@ -1228,3 +1228,6 @@ C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cu
 C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByManufactuner.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByManufactuner.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByName.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_LayoutAdmin.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_ViewStart.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs

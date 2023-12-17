@@ -13,7 +13,10 @@ namespace WebsiteVot.Controllers
     public class AdminController : Controller
     {
         private readonly ApplicationDbContext _context;
+        void GetInfo()
+        {
 
+        }
         public AdminController(ApplicationDbContext context)
         {
             _context = context;
@@ -22,6 +25,7 @@ namespace WebsiteVot.Controllers
         // GET: Admin
         public async Task<IActionResult> Index()
         {
+            GetInfo();
             var applicationDbContext = _context.Mathang.Include(m => m.MaDmNavigation);
             return View(await applicationDbContext.ToListAsync());
         }

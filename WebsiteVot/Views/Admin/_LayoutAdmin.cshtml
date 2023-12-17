@@ -1,0 +1,157 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>VotShop</title>
+    <link rel="stylesheet" href="~/assets/css/styles.min.css" />
+</head>
+<body>
+    <div class="page-wrapper" id="main-wrapper" data-layout="vertical" data-navbarbg="skin6" data-sidebartype="full"
+         data-sidebar-position="fixed" data-header-position="fixed">
+        <!-- Sidebar Start -->
+        <aside class="left-sidebar">
+            <!-- Sidebar scroll-->
+            <div class="scroll-sidebar" data-simplebar>
+                <div class="d-flex mb-4 align-items-center justify-content-between">
+                    <a href="index.html" class="text-nowrap logo-img ms-0 ms-md-1">
+                        <img src="../assets/images/logos/dark-logo.svg" width="180" alt="">
+                    </a>
+                    <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
+                        <i class="ti ti-x fs-8"></i>
+                    </div>
+                </div>
+                <!-- Sidebar navigation-->
+                <nav class="sidebar-nav">
+                    <ul id="sidebarnav" class="mb-4 pb-2">
+                        <li class="nav-small-cap">
+                            <i class="ti ti-dots nav-small-cap-icon fs-5"></i>
+                            <span class="hide-menu">Trang chủ</span>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link sidebar-link primary-hover-bg"
+                               href="./index.html"
+                               aria-expanded="false">
+                                <span class="aside-icon p-2 bg-light-primary rounded-3">
+                                    <i class="ti ti-layout-dashboard fs-7 text-primary"></i>
+                                </span>
+                                <span class="hide-menu ms-2 ps-1">Dashboard</span>
+                            </a>
+                        </li>
+                        <li class="nav-small-cap">
+                            <i class="ti ti-dots nav-small-cap-icon fs-5"></i>
+                            <span class="hide-menu">UI Componenst</span>
+                        </li>
+                        <li class="sidebar-item">
+                            <a class="sidebar-link sidebar-link warning-hover-bg"
+                               href="./ui-buttons.html"
+                               aria-expanded="false">
+                                <span class="aside-icon p-2 bg-light-warning rounded-3">
+                                    <i class="ti ti-article fs-7 text-warning"></i>
+                                </span>
+                                <span class="hide-menu ms-2 ps-1">Buttons</span>
+                            </a>
+                        </li>
+                        @* Đăng nhập *@
+                        <li class="sidebar-item">
+                            <a class="sidebar-link sidebar-link warning-hover-bg"
+                               href="./authentication-login.html"
+                               aria-expanded="false">
+                                <span class="aside-icon p-2 bg-light-warning rounded-3">
+                                    <i class="ti ti-login fs-7 text-warning"></i>
+                                </span>
+                                <span class="hide-menu ms-2 ps-1">Login</span>
+                            </a>
+                        </li>
+                        @* Đăng ký *@
+                        <li class="sidebar-item">
+                            <a class="sidebar-link sidebar-link danger-hover-bg"
+                               href="./authentication-register.html"
+                               aria-expanded="false">
+                                <span class="aside-icon p-2 bg-light-danger rounded-3">
+                                    <i class="ti ti-user-plus fs-7 text-danger"></i>
+                                </span>
+                                <span class="hide-menu ms-2 ps-1">Register</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="pb-3 options text-nowrap">
+                        <div class="nav-small-cap">
+                            <i class="ti ti-dots nav-small-cap-icon fs-5"></i>
+                            <span class="hide-menu">More options</span>
+                        </div>
+
+                        <ul class="sidebar-list">
+                            <li class="sidebar-list-item">
+                                <i class="ti ti-circle text-primary fs-4"></i>
+                                <span class="hide-menu ms-2">Applications</span>
+                            </li>
+                            <li class="sidebar-list-item">
+                                <i class="ti ti-circle text-danger fs-4"></i>
+                                <span class="hide-menu ms-2">Form Options</span>
+                            </li>
+                            <li class="sidebar-list-item">
+                                <i class="ti ti-circle text-warning fs-4"></i>
+                                <span class="hide-menu ms-2">Table Variations</span>
+                            </li>
+                            <li class="sidebar-list-item">
+                                <i class="ti ti-circle text-success fs-4"></i>
+                                <span class="hide-menu ms-2">Charts Selection</span>
+                            </li>
+                            <li class="sidebar-list-item">
+                                <i class="ti ti-circle text-indigo fs-4"></i>
+                                <span class="hide-menu ms-2">Widgets</span>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="mt-5 blocks-card sidebar-ad">
+                        <div class="card bg-light-primary">
+                            <div class="card-body">
+                                <div class="text-center">
+                                    <span class="badge text-white bg-success">V</span>
+                                    <span class="badge text-white bg-danger">O</span>
+                                    <span class="badge text-white bg-warning">T</span>
+
+                                    <h5>VotShop<br /> Cửa hàng vợt cầu lông</h5>
+
+                                    <div class="mt-4">
+                                        <a asp-action="Index" asp-controller="Customer" target="_blank" class="btn btn-primary buynow-link w-100 px-2">
+                                            Buy Now
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+                <!-- End Sidebar navigation -->
+            </div>
+            <!-- End Sidebar scroll-->
+        </aside>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <footer class="py-5 bg-info">
+        <div class="text-center mb-5"><a class="text-warning" href="#top"><i class="bi bi-chevron-up" style="font-size: 3rem; font-weight: bold; color:white;"></i></a></div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-6 text-light">
+                    <h4>
+                        <span class="badge text-white bg-success">V</span>
+                        <span class="badge text-white bg-danger">O</span>
+                        <span class="badge text-white bg-warning">T</span> Shop - Cửa hàng vợt cầu lông
+                    </h4>
+                    <p>
+                        <b><i>Địa chỉ:</i></b> 18 Ung Văn Khiêm, phường Đông Xuyên, TP Long Xuyên, An Giang<br>
+                        <b><i>Điện thoại:</i></b> 076 3841190<br>
+                        <b><i>Email:</i></b> abc@abc.com
+                    </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
