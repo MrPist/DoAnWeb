@@ -6,20 +6,18 @@
 <div class="row">
     <div class="col">
         <h4 class="text-info">Thông tin khách hàng</h4>
-
         <form asp-action="CreateBill">
-            <input type="hidden" name="id" value="@ViewBag.khachhang.MaKh" />
             <div class="mb-3">
                 <label>Email</label>
-                <input name="email" class="form-control" type="text" value="@ViewBag.khachhang.Email" />
+                <input name="email" class="form-control" type="text" />
             </div>
             <div class="mb-3">
                 <label>Họ tên</label>
-                <input name="hoten" class="form-control" type="text" value="@ViewBag.khachhang.Ten" />
+                <input name="hoten" class="form-control" type="text" />
             </div>
             <div class="mb-3">
                 <label>Điện thoại</label>
-                <input name="dienthoai" class="form-control" type="text" value="@ViewBag.khachhang.DienThoai" />
+                <input name="dienthoai" class="form-control" type="text" />
             </div>
             <div class="mb-3">
                 <label>Địa chỉ</label>

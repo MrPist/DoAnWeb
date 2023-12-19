@@ -1576,3 +1576,12 @@ C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Details.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Edit.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Index.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cthoadon\Create.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cthoadon\Delete.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cthoadon\Details.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cthoadon\Edit.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cthoadon\Index.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cthoadon\_ViewStart.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\_ViewStart.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\_ViewStart.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Nguoidung\_ViewStart.cshtml.g.cs

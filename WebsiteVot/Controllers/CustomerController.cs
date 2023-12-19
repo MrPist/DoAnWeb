@@ -24,7 +24,7 @@ namespace WebsiteVot.Controllers
         void GetInfo()
         {
             ViewBag.danhmuc = _context.Danhmuc.ToList();
-
+            ViewBag.khachhang = _context.Nguoidung.ToList();
             //ViewData["solg"] = GetCartItems().Count();
         }
         // GET: Customer
@@ -248,7 +248,7 @@ namespace WebsiteVot.Controllers
         }
 
         // Lưu đơn
-        public async Task<IActionResult> CreateBill(int id, string email, string hoten, string dienthoai, string diachi)
+        public async Task<IActionResult> CreateBill(int id, string email, string hoten, string dienthoai, string diachi )
         {
 
             // Xử lý thông tin khách hàng (trường hợp khách mới)
