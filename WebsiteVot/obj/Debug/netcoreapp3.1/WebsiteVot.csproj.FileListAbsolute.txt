@@ -1226,7 +1226,6 @@ C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Cu
 C:\Users\ADMIN\Desktop\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByManufactuner.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByManufactuner.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ProductsByName.cshtml.g.cs
-C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_LayoutAdmin.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Admin\_ViewStart.cshtml.g.cs
 C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\Delete.cshtml.g.cs
 C:\Users\VAN VANG\Source\Repos\DoAnWeb\WebsiteVot\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
@@ -1558,3 +1557,22 @@ C:\Users\VAN VANG\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\We
 C:\Users\VAN VANG\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CheckOut.cshtml.g.cs
 C:\Users\VAN VANG\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CreateBill.cshtml.g.cs
 C:\Users\VAN VANG\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ViewCart.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CheckOut.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\CreateBill.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Customer\ViewCart.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Create.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Delete.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Details.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Edit.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Danhmuc\Index.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Nguoidung\Create.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Nguoidung\Delete.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Nguoidung\Details.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Nguoidung\Edit.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Nguoidung\Index.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutAdmin.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Create.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Delete.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Details.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Edit.cshtml.g.cs
+C:\Users\phuoc\Documents\GitHub\DoAnWeb\WebsiteVot\obj\Debug\netcoreapp3.1\Razor\Views\Hoadon\Index.cshtml.g.cs
