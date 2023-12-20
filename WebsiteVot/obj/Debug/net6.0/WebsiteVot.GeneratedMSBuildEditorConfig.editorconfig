@@ -9,209 +9,227 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebsiteVot
 build_property.RootNamespace = WebsiteVot
-build_property.ProjectDir = C:\Users\VAN VANG\Documents\GitHub\DoAnWeb\WebsiteVot\
+build_property.ProjectDir = C:\Users\lephu\Documents\GitHub\DoAnWeb\WebsiteVot\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\VAN VANG\Documents\GitHub\DoAnWeb\WebsiteVot
+build_property.MSBuildProjectDirectory = C:\Users\lephu\Documents\GitHub\DoAnWeb\WebsiteVot
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Create.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Delete.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Details.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Edit.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Index.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Admin/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Create.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Rob2Fkb25cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Delete.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Rob2Fkb25cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Details.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Rob2Fkb25cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Edit.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Rob2Fkb25cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Index.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Rob2Fkb25cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Cthoadon/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3Rob2Fkb25cX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/CheckOut.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/CheckOut.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ2hlY2tPdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/CreateBill.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/CreateBill.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlQmlsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Delete.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Details.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Index.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcTG9naW4uY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/ProductsByManufactuner.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/ProductsByManufactuner.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUHJvZHVjdHNCeU1hbnVmYWN0dW5lci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/ProductsByName.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/ProductsByName.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUHJvZHVjdHNCeU5hbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Register.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/ViewCart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/ViewCart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcVmlld0NhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Customer/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Create.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaG11Y1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Delete.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaG11Y1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Details.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaG11Y1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Edit.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaG11Y1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Index.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaG11Y1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Danhmuc/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFuaG11Y1xfVmlld1N0YXJ0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Create.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hZG9uXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Delete.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hZG9uXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Details.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hZG9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Edit.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hZG9uXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Index.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hZG9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Hoadon/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9hZG9uXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Create.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Delete.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Details.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Edit.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Index.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Nguoidung/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmd1b2lkdW5nXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/Error.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_Layout.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_LayoutHome.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_LayoutHome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRIb21lLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/_ViewImports.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/VAN VANG/Documents/GitHub/DoAnWeb/WebsiteVot/Views/_ViewStart.cshtml]
+[C:/Users/lephu/Documents/GitHub/DoAnWeb/WebsiteVot/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

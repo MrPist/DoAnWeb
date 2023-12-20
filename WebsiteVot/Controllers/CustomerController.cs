@@ -323,56 +323,7 @@ namespace WebsiteVot.Controllers
             return View(products);
 
         }
-        public IActionResult Login()
-        {
-            GetInfo();
-            return View();
-        }
-        [HttpPost]
-        public IActionResult Login(string email, string matkhau)
-        {
-            var kh = _context.Nguoidung.FirstOrDefault(k => k.Email == email);
-           
-            return RedirectToAction(nameof(Login));
-        }
-        public IActionResult Customer()
-        {
-            GetInfo();
-            return View();
-        }
-        public IActionResult Logout()
-        {
-            HttpContext.Session.SetString("nguoidung", "");
-            GetInfo();
-            return RedirectToAction(nameof(Index));
-        }
-
-        //GET
-        public IActionResult Register()
-        {
-            GetInfo();
-            return View();
-        }
-
-        [HttpPost]
-        public IActionResult Register(string email, string matkhau, string hoten, string dienthoai)
-        {
-            var kh = new Nguoidung();
-            kh.Email = email;
-            kh.MatKhau = matkhau; //can ma hoa
-            kh.Ten = hoten;
-            kh.DienThoai = dienthoai;
-
-            _context.Add(kh);
-            _context.SaveChanges();
-            // yeu cau Login
-            return RedirectToAction(nameof(Login));
-
-
-
-
-
-        }
+        
 
     }
 }

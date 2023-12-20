@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
@@ -61,16 +63,31 @@ namespace WebsiteVot.Controllers
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("MaMh,Ten,GiaGoc,GiaBan,SoLuong,MoTa,HinhAnh,MaDm,LuotXem,LuotMua")] Mathang mathang)
+        public async Task<IActionResult> Create([Bind("MaMh,Ten,GiaGoc,GiaBan,SoLuong,MoTa,HinhAnh,MaDm,LuotXem,LuotMua")] Mathang mathang, FormFile file)
         {
             if (ModelState.IsValid)
             {
+                mathang.HinhAnh = Upload(file);
                 _context.Add(mathang);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
             ViewData["MaDm"] = new SelectList(_context.Danhmuc, "MaDm", "Ten", mathang.MaDm);
             return View(mathang);
+        }
+        public string Upload(IFormFile file) 
+        {
+            string uploadfileName = null;
+            if(file != null)
+            {
+                uploadfileName = Guid.NewGuid().ToString() + "_" + file.FileName;
+                var path = $"wwwroot\\images\\{uploadfileName}";
+                using (var stream = new FileStream(path, FileMode.Create))
+                {
+                    file.CopyTo(stream);
+                }
+            }
+            return uploadfileName;
         }
 
         // GET: Admin/Edit/5
@@ -159,6 +176,56 @@ namespace WebsiteVot.Controllers
         private bool MathangExists(int id)
         {
             return _context.Mathang.Any(e => e.MaMh == id);
+        }
+        public IActionResult Login()
+        {
+            GetInfo();
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Login(string email, string matkhau)
+        {
+            var kh = _context.Nguoidung.FirstOrDefault(k => k.Email == email);
+
+            return RedirectToAction(nameof(Login));
+        }
+        public IActionResult Customer()
+        {
+            GetInfo();
+            return View();
+        }
+        public IActionResult Logout()
+        {
+            HttpContext.Session.SetString("nguoidung", "");
+            GetInfo();
+            return RedirectToAction(nameof(Index));
+        }
+
+        //GET
+        public IActionResult Register()
+        {
+            GetInfo();
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Register(string email, string matkhau, string hoten, string dienthoai)
+        {
+            var kh = new Nguoidung();
+            kh.Email = email;
+            kh.MatKhau = matkhau; //can ma hoa
+            kh.Ten = hoten;
+            kh.DienThoai = dienthoai;
+
+            _context.Add(kh);
+            _context.SaveChanges();
+            // yeu cau Login
+            return RedirectToAction(nameof(Login));
+
+
+
+
+
         }
     }
 }
