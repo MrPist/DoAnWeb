@@ -1,36 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phuoc\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {}
+    "C:\\Users\\VAN VANG\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phuoc\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {
+    "C:\\Users\\VAN VANG\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phuoc\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
+        "projectUniqueName": "C:\\Users\\VAN VANG\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
         "projectName": "WebsiteVot",
-        "projectPath": "C:\\Users\\phuoc\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
-        "packagesPath": "C:\\Users\\phuoc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phuoc\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\obj\\",
+        "projectPath": "C:\\Users\\VAN VANG\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\WebsiteVot.csproj",
+        "packagesPath": "C:\\Users\\VAN VANG\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\VAN VANG\\Documents\\GitHub\\DoAnWeb\\WebsiteVot\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\phuoc\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\VAN VANG\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp3.1"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -41,44 +37,32 @@
         }
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "dependencies": {
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.32, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.1.32, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[3.1.32, )"
-            },
-            "Microsoft.AspNetCore.Session": {
-              "target": "Package",
-              "version": "[2.2.0, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.1.32, )"
-            },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
-              "target": "Package",
-              "version": "[3.1.32, )"
+              "version": "[6.0.21, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[3.1.32, )"
+              "version": "[6.0.21, )"
             },
-            "Microsoft.Extensions.Caching.Memory": {
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[3.1.32, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.5, )"
+              "version": "[13.0.3, )"
             }
           },
           "imports": [
@@ -100,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
